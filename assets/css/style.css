@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.navbar-expand-lg {
+    background: #E83E8C;
+}
+
+.container-fluid {
+    background: #E83E8C;
+    font-size: 16px;
+}
+
+footer {
+    background: #E83E8C;
+}
+
+header h1 {
+    font-weight: bold;
+    color: #707070;
+    font-size: 60px;
+} 
+
+#iconos {
+    background: #17a2b8;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+
+
